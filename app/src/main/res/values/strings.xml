@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioListenerKotlin</string>
+    <string name="evaluar">Evaluar</string>
+    <string name="quimica">Química</string>
+    <string name="fisica">Física</string>
+    <string name="matematicas">Matemáticas</string>
+    <string name="txt_media">Media del alumno</string>
+</resources>
